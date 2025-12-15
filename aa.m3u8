@@ -19,6 +19,8 @@ http://88.212.15.47/live/test_cinemax_hd_hevc/playlist.m3u8
 http://88.212.15.47/live/test_cinemax2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RuzickaHub/tv/main/logo/cnnprima.png",CNN Prima NEWS
 http://88.212.15.47/live/test_cnn_pirma_news/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RuzickaHub/tv/main/logo/primazoom.png",Prima ZOOM
+http://88.212.15.47/live/test_prima_zoom_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RuzickaHub/tv/main/logo/ct1.png",ČT 1
 http://88.212.15.47/live/test_ct1_25p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RuzickaHub/tv/main/logo/ct24.png",ČT 24
@@ -49,5 +51,3 @@ http://88.212.15.47/live/prima_show_25p/playlist.m3u8
 http://88.212.15.47/live/test_prima_zoom_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RuzickaHub/tv/main/logo/primaplus.png",Prima +1
 http://88.212.15.47/live/prima_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RuzickaHub/tv/main/logo/primastar.png",Prima STAR
-http://88.212.15.47/live/prima_show_25p/playlist.m3u8
